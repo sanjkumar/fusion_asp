@@ -1,0 +1,93 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <Stock>
+    <StockId>1</StockId>
+    <Description>Sony Laptop</Description>
+    <Stock_level>5</Stock_level>
+    <Price>750</Price>
+  </Stock>
+  <Stock>
+    <StockId>10</StockId>
+    <Description>Samsung Camera</Description>
+    <Stock_level>20</Stock_level>
+    <Price>105</Price>
+  </Stock>
+  <Stock>
+    <StockId>11</StockId>
+    <Description>Samsung Laptop</Description>
+    <Stock_level>4</Stock_level>
+    <Price>550</Price>
+  </Stock>
+  <Stock>
+    <StockId>12</StockId>
+    <Description>Apple Tv</Description>
+    <Stock_level>2</Stock_level>
+    <Price>1500</Price>
+  </Stock>
+  <Stock>
+    <StockId>13</StockId>
+    <Description>Sony Camera</Description>
+    <Stock_level>10</Stock_level>
+    <Price>120</Price>
+  </Stock>
+  <Stock>
+    <StockId>14</StockId>
+    <Description>Apple Ipod</Description>
+    <Stock_level>4</Stock_level>
+    <Price>200</Price>
+  </Stock>
+  <Stock>
+    <StockId>15</StockId>
+    <Description>Sony E-reader</Description>
+    <Stock_level>5</Stock_level>
+    <Price>300</Price>
+  </Stock>
+  <Stock>
+    <StockId>2</StockId>
+    <Description>Apple AirBook</Description>
+    <Stock_level>3</Stock_level>
+    <Price>950</Price>
+  </Stock>
+  <Stock>
+    <StockId>3</StockId>
+    <Description>Apple MacBook</Description>
+    <Stock_level>7</Stock_level>
+    <Price>1050</Price>
+  </Stock>
+  <Stock>
+    <StockId>4</StockId>
+    <Description>Sony Tv</Description>
+    <Stock_level>10</Stock_level>
+    <Price>350</Price>
+  </Stock>
+  <Stock>
+    <StockId>5</StockId>
+    <Description>Samsung Tv</Description>
+    <Stock_level>6</Stock_level>
+    <Price>599</Price>
+  </Stock>
+  <Stock>
+    <StockId>6</StockId>
+    <Description>Hp Laptop</Description>
+    <Stock_level>15</Stock_level>
+    <Price>650</Price>
+  </Stock>
+  <Stock>
+    <StockId>7</StockId>
+    <Description>Dell Pc</Description>
+    <Stock_level>5</Stock_level>
+    <Price>350</Price>
+  </Stock>
+  <Stock>
+    <StockId>8</StockId>
+    <Description>Dell Laptop</Description>
+    <Stock_level>4</Stock_level>
+    <Price>650</Price>
+  </Stock>
+  <Stock>
+    <StockId>9</StockId>
+    <Description>Hp Pc</Description>
+    <Stock_level>3</Stock_level>
+    <Price>450</Price>
+  </Stock>
+</NewDataSet>
